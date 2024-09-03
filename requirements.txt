@@ -1,0 +1,5 @@
+qdrant_client
+numpy<2
+sentence_transformers
+transformers
+spacy
